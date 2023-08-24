@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaExchange.API", "MetaExchange.API\MetaExchange.API.csproj", "{5F6771BB-FBBB-4F93-9106-43511D4EF129}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaExchange.API.Tests", "MetaExchange.API.Tests\MetaExchange.API.Tests.csproj", "{BBC3339E-F9B7-4593-B2FF-75D3FE6BD846}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5F6771BB-FBBB-4F93-9106-43511D4EF129}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F6771BB-FBBB-4F93-9106-43511D4EF129}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F6771BB-FBBB-4F93-9106-43511D4EF129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC3339E-F9B7-4593-B2FF-75D3FE6BD846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC3339E-F9B7-4593-B2FF-75D3FE6BD846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC3339E-F9B7-4593-B2FF-75D3FE6BD846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC3339E-F9B7-4593-B2FF-75D3FE6BD846}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
